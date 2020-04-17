@@ -65,7 +65,7 @@ col{
 	/*tres colunas	Celular*/
 	@media (max-width: 767px){
 		.col-3 {
-			width: auto;
+			width: 11,11%;
 		}
 	}
 /*Usar somente para testes*/
