@@ -1,4 +1,4 @@
-/* 	reset basico	
+/* 	reset basico	*/
 * {
 	margin: 0;
 	padding: 0;
@@ -15,7 +15,7 @@ col{
 	background-color: greenyellow;
 }
 
-/*	Container	
+/*	Container	*/	
 .container	{
 	width: 100%;
 	margin-left: auto;
@@ -29,7 +29,7 @@ col{
 		}
 	}
 
-/*	linha	
+/*	linha	*/
 .row{
 	margin-left: -5px;
 	margin-right: -5px;
@@ -43,7 +43,7 @@ col{
 		clear: both;
 	}
 
-	/*		Colunas	 Desktop	
+	/*		Colunas	 Desktop	*/	
 	.col{
 	display: inline-block;
 	vertical-align: top;
@@ -55,20 +55,20 @@ col{
 	*zoom: 1;
 	*display: inline;
 }
-	/*	Duas Colunas Tablet	
+	/*	Duas Colunas Tablet	*/
 	@media  (min-width: 768px)(max-width: 991px;){
 		.col-2{
 			width: 50%;
 		}
 	}
 
-	/*tres colunas	Celular
+	/*tres colunas	Celular*/
 	@media (max-width: 767px){
 		.col-3 {
 			width: 11,11%;
 		}
 	}
-/*Usar somente para testes
+/*Usar somente para testes*/
 .teste{
 	background-color: black;
 	padding: 5px;
@@ -80,9 +80,9 @@ col{
 	height: 50px;
 }
 
-/*Peguei base do Prof*/
+/*Peguei base do Prof/*
 
-/********** Estilos Base **********/
+/********** Estilos Base ***********/
 * {
 	box-sizing: border-box;
   }
@@ -101,10 +101,10 @@ col{
 	color: white;
   }
   
-  /* Framework responsivo simples. */
+  /* Framework responsivo simples.	*/
   .row {
 	width: 100%;
-  }
+  }*/
   
   /********** Só dispositivos largos **********/
   @media (min-width: 1200px) {
